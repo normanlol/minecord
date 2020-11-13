@@ -1,0 +1,29 @@
+{
+  "name": "minecord",
+  "version": "1.0.0",
+  "description": "minecraft and discord crosscommunication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanlol/minecord.git"
+  },
+  "keywords": [
+    "minecraft",
+    "discord",
+    "crossplatform",
+    "bot"
+  ],
+  "author": "n0rmancodes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/normanlol/minecord/issues"
+  },
+  "homepage": "https://github.com/normanlol/minecord#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "minecraft-protocol": "^1.19.0"
+  }
+}
